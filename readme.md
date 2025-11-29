@@ -1,3 +1,3 @@
-FrontEnd Github URL: https://github.com/Shresth2725/devpulse-frontend
-/n
-BackEnd Github URL: https://github.com/Shresth2725/DevPulse
+### Repositories
+- **Frontend:** https://github.com/Shresth2725/devpulse-frontend  
+- **Backend:** https://github.com/Shresth2725/DevPulse
